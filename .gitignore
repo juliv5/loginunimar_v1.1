@@ -1,3 +1,4 @@
 
 resources/views/auth/registercopy.blade.php
 public/hot
+resources/views/auth/logincopy.blade.php
