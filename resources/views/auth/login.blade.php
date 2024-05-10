@@ -63,8 +63,8 @@
                                         </div>
 
                                         <div class="text-center pt-1 mb-5 pb-1">
-                                            <a href="{{ route('home') }}" class="btn btn-outline-danger">Iniciar
-                                                Sesión</a> <br> </br>
+                                            <button type="submit"  class="btn btn-outline-danger">Iniciar
+                                                Sesión</button> <br> </br>
                                             <a class="text-muted" href="#!">¿Olvidaste tu contraseña?</a>
                                         </div>
 
